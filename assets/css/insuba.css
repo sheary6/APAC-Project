@@ -6724,7 +6724,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: var(--insuba-black5, #0f3667);
+  background-color: var(--insuba-black5, #35d8ca);
   border-radius: 38px;
   transition: opacity 300ms ease;
 }
